@@ -9,6 +9,7 @@
   "author": "Tai",
   "license": "ISC",
   "devDependencies": {
-    "node-sass": "^4.13.1"
+    "node-sass": "^4.13.1",
+    "minimist": ">=1.2.3"
   }
 }
